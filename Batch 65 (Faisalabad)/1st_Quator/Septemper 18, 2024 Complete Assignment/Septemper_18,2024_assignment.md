@@ -2,7 +2,6 @@
 
 ## Problem No 1:  
 ### Calculate Your Age Based on the Current Year and Your Birth Year
-
 **Hint:** Calculate your age by subtracting your birth year from the current year.  
 **Formula:** Age = Current Year - Birth Year
 
@@ -14,9 +13,7 @@ print("Your age is ", (current_year - birth_year))
 ```
 
 
-## Problem No 2:  
-### Problem No 2: Calculate the Area of a Rectangle Using Length and Width Variables
-
+## Problem No 2: Calculate the Area of a Rectangle Using Length and Width Variables
 **Hint:** Calculate the area of a rectangle using its length and width.  
 **Formula:** Area = Length * Width
 
