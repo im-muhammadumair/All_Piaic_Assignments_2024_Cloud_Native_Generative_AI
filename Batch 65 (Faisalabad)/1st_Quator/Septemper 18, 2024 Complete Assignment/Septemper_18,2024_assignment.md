@@ -13,7 +13,8 @@ print("Your age is ", (current_year - birth_year))
 ```
 
 
-## Problem No 2: Calculate the Area of a Rectangle Using Length and Width Variables
+## Problem No 2: 
+### Calculate the Area of a Rectangle Using Length and Width Variables
 **Hint:** Calculate the area of a rectangle using its length and width.  
 **Formula:** Area = Length * Width
 
@@ -25,7 +26,8 @@ print("The area of your rectangle is ", (rectangle_length * rectangle_width))
 ```
 
 
-## Problem No 3: Calculate the Area of a Circle
+## Problem No 3: 
+### Calculate the Area of a Circle
 **Hint:** Calculate the area of a circle using its radius.  
 **Formula:** Area = π * radius²
 
@@ -37,7 +39,8 @@ print("The area of the circle is: ", (pie_value * (circle_radius ** 2)))
 ```
 
 
-## Problem No 4: Calculate the Volume of a Cube
+## Problem No 4: 
+### Calculate the Volume of a Cube
 **Hint:** Calculate the volume of a cube using its side length.  
 **Formula:** Volume = side³
 
@@ -50,7 +53,8 @@ print("The volume of the Cube is: ", (cube_length * cube_width * cube_height))
 ```
 
 
-## Problem No 5: Convert a Temperature from Fahrenheit to Celsius and Vice Versa
+## Problem No 5: 
+### Convert a Temperature from Fahrenheit to Celsius and Vice Versa
 **Hint:** Took userinput of temperature from user as Fahrenheit to Celsius and vice versa  
 **Formula:** Celsius = (Fahrenheit - 32) * 5/9  -|-  Fahrenheit = (Celsius * 9/5) + 32
 
@@ -67,7 +71,8 @@ print("Temperature in Celsius is: ", ((temperature - 32) * 5 / 9))
 ```
 
 
-## Problem No 6: Convert a Given Number of Seconds into Minutes and Seconds
+## Problem No 6: 
+### Convert a Given Number of Seconds into Minutes and Seconds
 **Hint:** Take input from the user in seconds, convert it into minutes, and vice versa.  
 **Formula:** Minutes = Seconds // 60
 
@@ -78,7 +83,8 @@ print("Time in seconds is: ", (time_minutes * 60))
 ```
 
 
-## Problem No 7: Calculate the Percentage
+## Problem No 7: 
+### Calculate the Percentage
 **Hint:** Take input for the total value and the part of it, multiply it and then divide by 100.
 **Formula:** Percentage = (Part / Total) * 100
 
@@ -90,7 +96,8 @@ print("Percentage is: ", ((percentage / 100) * marks))
 ```
 
 
-## Problem No 8: Calculate the BMI Using Height and Weight
+## Problem No 8: 
+### Calculate the BMI Using Height and Weight
 **Hint:** Calculate the Body Mass Index (BMI) using height and weight.  
 **Formula:** Weight / (Height)²
 
@@ -111,7 +118,8 @@ else:
 ```
 
 
-## Problem No 9: Calculate the Volume of a Cylinder
+## Problem No 9: 
+### Calculate the Volume of a Cylinder
 **Hint:** Calculate the volume of a cylinder using its radius and height.  
 **Formula:** Volume = π * (radius)² * height
 
