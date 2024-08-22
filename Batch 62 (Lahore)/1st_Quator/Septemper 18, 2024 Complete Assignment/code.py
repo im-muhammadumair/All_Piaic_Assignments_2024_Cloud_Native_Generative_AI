@@ -4,7 +4,7 @@ for i in range(1,11):
 
 # ===========================================
 
-print("The table of 2")
+print("The table of 7")
 for i in range(1,11):
     print(f" 7 * {i} = {i*7} ")
 
