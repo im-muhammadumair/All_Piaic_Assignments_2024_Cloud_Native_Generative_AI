@@ -88,6 +88,7 @@ print("Time in seconds is: ", (time_minutes * 60))
 **Hint:** Take input for the total value and the part of it, multiply it and then divide by 100.
 **Formula:** Percentage = (Part / Total) * 100
 
+
 ```python
 print("Percentage Calculator")
 percentage = int(input("Enter your percentage: "))
