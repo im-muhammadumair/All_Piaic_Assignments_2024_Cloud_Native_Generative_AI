@@ -77,4 +77,4 @@ height = int(input("Enter your height: "))
 pie_value = 3.1416
 
 print("Volume of Cylinder is: ", pie_value*(radius**2)*height)
-# ---------------------------------------------------
+# type: ignore # ---------------------------------------------------
