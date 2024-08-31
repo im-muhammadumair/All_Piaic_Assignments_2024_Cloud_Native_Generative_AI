@@ -70,11 +70,9 @@ if x >= 30:
    print('Obesity')
 # ---------------------------------------------------
 
-# Question_no8
+# Question_no9
 print("Cylinder Volume Calculator (V = πr²h)")
 radius = int(input("Enter your radius: "))
 height = int(input("Enter your height: "))
 pie_value = 3.1416
-
-print("Volume of Cylinder is: ", pie_value*(radius**2)*height)
-# type: ignore # ---------------------------------------------------
+print("Volume of Cylinder is: ", pie_value * (radius ** 2) * height)                                                    # type: ignore # ---------------------------------------------------
