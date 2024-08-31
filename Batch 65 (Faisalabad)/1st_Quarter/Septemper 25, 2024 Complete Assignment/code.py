@@ -31,7 +31,7 @@ rectangle_area(length,width)
 # # ---------------------------------------------------
 
 def cube_area(length, width, height):
-    print(f"The area of cube is {length*width*height}")
+print(f"The area of cube is {length*width*height}")
 
 length = int(input("Enter length: "))
 width = int(input("Enter width:   "))
