@@ -16,7 +16,8 @@ if num>0:
 if num==0:
     print("The number is zero!")
 
-Whether it is divisible by both 2 and 3 or anyone of them or not divisible by both check all the cases and print statement for each case.
+# Whether it is divisible by both 2 and 3 or anyone of them or not divisible by both check all the cases and print statement for each case.
+
 num = int(input("Enter num: "))
 if num%2 == 0 and num%3 == 0:
     if num%2 ==0:
