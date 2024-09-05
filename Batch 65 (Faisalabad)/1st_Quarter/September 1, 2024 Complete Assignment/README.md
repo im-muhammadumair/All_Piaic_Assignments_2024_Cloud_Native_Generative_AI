@@ -208,7 +208,7 @@ If need any help and wanna know more about me.
 Lets connect.
 
 <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="
+    <a href="https://www.linkedin.com/in/im-muhammadumair" target="_blank" style="
         display: inline-block;
         padding: 8px 16px;
         color: #ffffff;
@@ -237,26 +237,3 @@ Lets connect.
         "></span>
     </a>
 </div>
-
-<style>
-    @keyframes pulse {
-        0% {
-            transform: scale(0.9);
-            opacity: 0.5;
-        }
-        50% {
-            transform: scale(1.1);
-            opacity: 0.3;
-        }
-        100% {
-            transform: scale(0.9);
-            opacity: 0.5;
-        }
-    }
-
-    a:hover {
-        box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.8); /* Stroke effect on hover */
-        transform: scale(1.05); /* Slightly enlarge button on hover */
-    }
-</style>
----
