@@ -1,4 +1,4 @@
-# PIAIC ASSIGNMENT-Batch 62-September 18, 2024
+# PIAIC ASSIGNMENT-Batch 62-August 18, 2024
 
 ## Problem No 1:  
 ### Write the table of 2 using for loop in python
